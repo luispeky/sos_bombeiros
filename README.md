@@ -11,16 +11,16 @@
 ## 📱 Telas do Aplicativo
 
 ### Página Inicial
-![home page](./img/home_page.png)
+![home page](./assets/home_page.png)
 
 ### Página do Mapa
-![mapa page](./img/mapa_page.png)
+![mapa page](./assets/mapa_page.png)
 
 ### Ficha Médica
-![ficha médica page](./img/ficha_medica.png)
+![ficha médica page](./assets/ficha_medica.png)
 
 ### Contatos de Emergência
-![contatos page](./img/contato_page.png)
+![contatos page](./assets/contato_page.png)
 
 ---
 
@@ -71,7 +71,7 @@
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/seu-usuario/sos-bombeiros.git
+git clone https://github.com/luispeky/sos_bombeiros.git
 
 # 2. Acesse o diretório do projeto
 cd sos-bombeiros
@@ -81,4 +81,3 @@ flutter pub get
 
 # 4. Rode o aplicativo
 flutter run
-
