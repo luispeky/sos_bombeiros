@@ -11,16 +11,16 @@
 ## 📱 Telas do Aplicativo
 
 ### Página Inicial
-![home page](./assets/home_page.png)
+![home page](./lib/assets/home_page.png)
 
 ### Página do Mapa
-![mapa page](./assets/mapa_page.png)
+![mapa page](./lib/assets/mapa_page.png)
 
 ### Ficha Médica
-![ficha médica page](./assets/ficha_medica.png)
+![ficha médica page](./lib/assets/ficha_medica.png)
 
 ### Contatos de Emergência
-![contatos page](./assets/contato_page.png)
+![contatos page](./lib/assets/contato_page.png)
 
 ---
 
